@@ -1,1 +1,1 @@
-# African-Repository-Workshop endeavours to foster co-creation and collaboration among experts in the field of HCI to design an inclusive, community-driven knowledge repository that not only imparts insights into HCI but also addresses unique challenges prevalent in the African context.
+# African-Repository-Workshop endeavours to foster co-creation and collaboration among experts in the field of HCI.
